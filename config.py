@@ -3417,7 +3417,7 @@ old_webpage_addresses = [
 	"https://t.me/s/xv2ray",
 	"https://t.me/s/yasV2ray",
 	"https://t.me/s/zarinargo",
-	"https://t.me/s/zilatvpn"",
+	"https://t.me/s/zilatvpn",
 	"https://t.me/s/Vip_fragment_v2ray",
 	"https://t.me/s/V2ray_Phoenix",
 	"https://t.me/s/VPN_KING_V2RAY",
